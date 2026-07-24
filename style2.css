@@ -14,8 +14,8 @@ body{
   justify-content: center;
   align-items: center;
   /* background-color: darkorange; */
-  flex-direction: row;
-  flex-wrap: nowrap;
+  /* flex-direction: row;
+  flex-wrap: nowrap; */
   border-radius: 32px;
 }
 .boxes > div:nth-child(1) {
@@ -34,7 +34,7 @@ body{
   width:300px;
   background-color:white;
   border-radius:15px;
-  box-shadow:0 8px 20px rgba(0,0,0,0.15);
+  /* box-shadow:0 8px 20px rgba(0,0,0,0.15); */
 }
 .card img{
     width:100%;
